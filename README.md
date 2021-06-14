@@ -376,7 +376,7 @@ wprintw(window_date, "%s", file->date);
 
 
 
-![image-20210614232423819](C:\Users\apploid\AppData\Roaming\Typora\typora-user-images\image-20210614232423819.png)
+![image-20210614232423819](https://i.imgur.com/8EoXuSq.png)
 
 
 
